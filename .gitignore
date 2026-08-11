@@ -1,0 +1,32 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.cache/
+.matplotlib/
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+checkpoints/
+data/raw_cache/
+results/generated/tmp/
+
+# Local workflow helpers are not part of the anonymous release.
+/Makefile
+/uv.lock
+
+# Credentials and local configuration must never be committed.
+.env
+.env.*
+!.env.example
+.hf_token
+access_token.txt
+credentials.json
+credentials-*.json
+docs
+models/README.md
+MANIFEST.sha256
+THIRD_PARTY.md
+data/processed
+results/generated
+notebooks
+README_unpolished.md

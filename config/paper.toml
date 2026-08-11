@@ -1,0 +1,51 @@
+paper_title = "Surname-Based Person References and Lexical Associations in Historical American Print Media"
+years = [1770, 1791, 1800, 1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1900, 1910, 1920, 1930, 1940, 1950, 1960]
+
+[dataset]
+identifier = "dell-research-harvard/AmericanStories"
+configuration = "subset_years"
+# The original notebooks did not pin a commit. The included intermediates are
+# therefore the authoritative frozen inputs for downstream reproduction.
+revision = "UNRECORDED"
+paper_snapshot_date = "2025-03-02"
+
+[sampling]
+name_analysis_seed = 42
+name_analysis_max_articles = 500000
+embedding_analysis_seed = 6741
+embedding_analysis_max_articles = 100000
+
+[ner]
+spacy_version = "3.8.7"
+model = "en_core_web_md"
+model_version = "3.8.0"
+
+[training]
+base_model = "prajjwal1/bert-tiny"
+base_model_revision = "UNRECORDED"
+sequence_length = 128
+train_chunks_large_years = 90000
+test_chunks_large_years = 9000
+epochs = 3
+learning_rate = 0.00002
+batch_size = 64
+mask_probability = 0.15
+trainer_seed = 42
+
+[embeddings]
+group_terms = ["japanese", "chinese", "korean", "asian", "oriental"]
+anchor_year = 1910
+alignment_described_in_paper = true
+alignment_applied_in_original_similarity_export = false
+alignment_note = "The omitted orthogonal rotation is cosine-invariant because both vectors in each comparison are from the same year."
+positive_adjectives = 648
+negative_adjectives = 648
+bootstrap_iterations = 5000
+bootstrap_seed = 1910
+confidence_level = 0.95
+
+[change_points]
+annual_breakpoints = 3
+minimum_segment_size = 2
+pelt_penalty_multiplier = 2.0
+jump = 1

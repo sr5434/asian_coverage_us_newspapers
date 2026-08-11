@@ -1,0 +1,551 @@
+analysis,series,test_family,specification,boundary_index,boundary
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=1,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=2,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=2,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=3,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=3,11.0,1880--1890
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=3,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,9.0,1860--1870
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,11.0,1880--1890
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=1,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=2,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=2,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=3,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=3,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=3,16.0,1930--1940
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,8.0,1850--1860
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,16.0,1930--1940
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=1,4.0,1810--1820
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=2,4.0,1810--1820
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=2,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=3,4.0,1810--1820
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=3,8.0,1850--1860
+Annual coverage,Chinese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=3,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=1,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=2,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=2,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=3,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=3,11.0,1880--1890
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=3,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,2.0,1791--1800
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,9.0,1860--1870
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,11.0,1880--1890
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=1,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=2,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=2,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=3,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=3,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=3,16.0,1930--1940
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,3.0,1800--1810
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,8.0,1850--1860
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,16.0,1930--1940
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=1,4.0,1810--1820
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=2,4.0,1810--1820
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=2,13.0,1900--1910
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=3,4.0,1810--1820
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=3,8.0,1850--1860
+Annual coverage,Chinese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=3,13.0,1900--1910
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=1,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=2,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=2,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=3,2.0,1791--1800
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=3,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=3,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,2.0,1791--1800
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,10.0,1870--1880
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=2; n_bkps=4,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=1,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=2,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=2,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=3,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=3,10.0,1870--1880
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=3,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,10.0,1870--1880
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,13.0,1900--1910
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=3; n_bkps=4,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=1,15.0,1920--1930
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=2,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=2,15.0,1920--1930
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=3,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=3,10.0,1870--1880
+Annual coverage,Japanese surname-match rate,annual specification grid,Binseg; min_size=4; n_bkps=3,15.0,1920--1930
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=1,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=2,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=2,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=3,2.0,1791--1800
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=3,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=3,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,2.0,1791--1800
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,7.0,1840--1850
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,9.0,1860--1870
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=2; n_bkps=4,17.0,1940--1950
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=1,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=2,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=2,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=3,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=3,10.0,1870--1880
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=3,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,8.0,1850--1860
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,11.0,1880--1890
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=3; n_bkps=4,16.0,1930--1940
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=1,15.0,1920--1930
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=2,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=2,15.0,1920--1930
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=3,5.0,1820--1830
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=3,10.0,1870--1880
+Annual coverage,Japanese surname-match rate,annual specification grid,Dynp; min_size=4; n_bkps=3,15.0,1920--1930
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=2; n_bkps=4,14.0,1910--1920
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Asian,annual specification grid,Binseg; min_size=4; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=2; n_bkps=4,14.0,1910--1920
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Asian,annual specification grid,Dynp; min_size=4; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=3,14.0,1910--1920
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=4,14.0,1910--1920
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=2; n_bkps=4,17.0,1940--1950
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=3,16.0,1930--1940
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=4,7.0,1840--1850
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Chinese,annual specification grid,Binseg; min_size=4; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=3,14.0,1910--1920
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=4,14.0,1910--1920
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=2; n_bkps=4,17.0,1940--1950
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=3,16.0,1930--1940
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=4,7.0,1840--1850
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=4; n_bkps=3,11.0,1880--1890
+Annual positivity margin,Chinese,annual specification grid,Dynp; min_size=4; n_bkps=3,15.0,1920--1930
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=4,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=4,7.0,1840--1850
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=3,7.0,1840--1850
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=4,7.0,1840--1850
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=3; n_bkps=4,15.0,1920--1930
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Japanese,annual specification grid,Binseg; min_size=4; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=4,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=4,7.0,1840--1850
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=3,7.0,1840--1850
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=4,7.0,1840--1850
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=3; n_bkps=4,15.0,1920--1930
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Japanese,annual specification grid,Dynp; min_size=4; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=3,17.0,1940--1950
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=4,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=2; n_bkps=4,17.0,1940--1950
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Korean,annual specification grid,Binseg; min_size=4; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=3,17.0,1940--1950
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=4,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=4; n_bkps=2,12.0,1890--1900
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Korean,annual specification grid,Dynp; min_size=4; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=2,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=2; n_bkps=4,14.0,1910--1920
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=2,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=4; n_bkps=2,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=4; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Binseg; min_size=4; n_bkps=3,14.0,1910--1920
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=1,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=2,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=2,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=3,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=4,2.0,1791--1800
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=2; n_bkps=4,14.0,1910--1920
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=1,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=2,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=2,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=3,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=3,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=3,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=4,3.0,1800--1810
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=4,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=4,12.0,1890--1900
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=3; n_bkps=4,16.0,1930--1940
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=4; n_bkps=1,4.0,1810--1820
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=4; n_bkps=2,4.0,1810--1820
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=4; n_bkps=2,9.0,1860--1870
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=4; n_bkps=3,4.0,1810--1820
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=4; n_bkps=3,8.0,1850--1860
+Annual positivity margin,Oriental,annual specification grid,Dynp; min_size=4; n_bkps=3,12.0,1890--1900
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),5.0,1838-05--1838-06
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),9.0,1838-09--1838-10
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2.5*log(n),,None
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=3*log(n),,None
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),5.0,1838-05--1838-06
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),9.0,1838-09--1838-10
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2.5*log(n),,None
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=3*log(n),,None
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),5.0,1838-05--1838-06
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),9.0,1838-09--1838-10
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2.5*log(n),,None
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=3*log(n),,None
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2*log(n),18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2*log(n),26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2.5*log(n),,None
+Opium War,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=3*log(n),,None
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=2; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=2; n_bkps=2,26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=3; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=3; n_bkps=2,26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=4; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=4; n_bkps=2,26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=6; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Binseg; min_size=6; n_bkps=2,26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=2; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=2; n_bkps=2,26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=3; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=3; n_bkps=2,26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=4; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=4; n_bkps=2,26.0,1840-02--1840-03
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=6; n_bkps=2,18.0,1839-06--1839-07
+Opium War,Chinese surname-match rate,event algorithm grid,Dynp; min_size=6; n_bkps=2,26.0,1840-02--1840-03
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),9.0,1847-09--1847-10
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),12.0,1847-12--1848-01
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),32.0,1849-08--1849-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),9.0,1847-09--1847-10
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2*log(n),44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2.5*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=3*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),9.0,1847-09--1847-10
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),12.0,1847-12--1848-01
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),32.0,1849-08--1849-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),9.0,1847-09--1847-10
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2*log(n),44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2.5*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=3*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),9.0,1847-09--1847-10
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),20.0,1848-08--1848-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),32.0,1849-08--1849-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),32.0,1849-08--1849-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2*log(n),32.0,1849-08--1849-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2*log(n),43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2*log(n),47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2.5*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=3*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),9.0,1847-09--1847-10
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),20.0,1848-08--1848-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),32.0,1849-08--1849-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),52.0,1851-04--1851-05
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),32.0,1849-08--1849-09
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),52.0,1851-04--1851-05
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2.5*log(n),,None
+California Gold Rush,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=3*log(n),,None
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=2; n_bkps=2,4.0,1847-04--1847-05
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=2; n_bkps=2,43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=3; n_bkps=2,4.0,1847-04--1847-05
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=3; n_bkps=2,43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=4; n_bkps=2,4.0,1847-04--1847-05
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=4; n_bkps=2,43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=6; n_bkps=2,9.0,1847-09--1847-10
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Binseg; min_size=6; n_bkps=2,43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=2; n_bkps=2,44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=2; n_bkps=2,47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=3; n_bkps=2,44.0,1850-08--1850-09
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=3; n_bkps=2,47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=4; n_bkps=2,43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=4; n_bkps=2,47.0,1850-11--1850-12
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=6; n_bkps=2,43.0,1850-07--1850-08
+California Gold Rush,Chinese surname-match rate,event algorithm grid,Dynp; min_size=6; n_bkps=2,52.0,1851-04--1851-05
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),3.0,1881-03--1881-04
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=3*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),3.0,1881-03--1881-04
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=3*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),5.0,1881-05--1881-06
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=3*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),6.0,1881-06--1881-07
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2.5*log(n),,None
+Chinese Exclusion Act,Chinese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=3*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),34.0,1941-10--1941-11
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),33.0,1941-09--1941-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=1.5*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2*log(n),33.0,1941-09--1941-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=2.5*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=2; penalty=3*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),7.0,1939-07--1939-08
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),33.0,1941-09--1941-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),33.0,1941-09--1941-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=1.5*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2*log(n),33.0,1941-09--1941-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=2.5*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=3; penalty=3*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=1.5*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=2.5*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=4; penalty=3*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=1.5*log(n),36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=2.5*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event penalty/min-size grid,Pelt; min_size=6; penalty=3*log(n),,None
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=2; n_bkps=2,21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=2; n_bkps=2,40.0,1942-04--1942-05
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=3; n_bkps=2,21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=3; n_bkps=2,40.0,1942-04--1942-05
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=4; n_bkps=2,21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=4; n_bkps=2,40.0,1942-04--1942-05
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=6; n_bkps=2,21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Binseg; min_size=6; n_bkps=2,40.0,1942-04--1942-05
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=2; n_bkps=2,33.0,1941-09--1941-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=2; n_bkps=2,36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=3; n_bkps=2,33.0,1941-09--1941-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=3; n_bkps=2,36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=4; n_bkps=2,21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=4; n_bkps=2,36.0,1941-12--1942-01
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=6; n_bkps=2,21.0,1940-09--1940-10
+Pearl Harbor,Japanese surname-match rate,event algorithm grid,Dynp; min_size=6; n_bkps=2,36.0,1941-12--1942-01

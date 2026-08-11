@@ -1,0 +1,5 @@
+row_type,term,reported_year,japanese_pct,chinese_pct,total_subjects,polarity,calculation_scope,source_context_status
+average,Average term,1900,0.18,0.80,8,Positive,all nonzero year-term rows in included adjective counts,not_applicable
+term,Little,1840,0.00,27.78,36,Negative,year-term row,source_article_id_and_full_context_missing
+term,Able,1900,0.00,2.74,219,Positive,year-term row,source_article_id_and_full_context_missing
+

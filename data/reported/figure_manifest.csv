@@ -1,0 +1,12 @@
+figure,file,data_source,status
+1,chart.png,data/processed/annual_name_rates.csv,reproducible_from_included_monthly_counts
+2,Opium War.png,data/processed/events/Opium_War.csv,reproducible_from_included_monthly_counts
+3,Asian.png,data/processed/positivity_margins/asian_positivity_margin.csv,reproducible_from_included_similarity_scores
+4,Chinese.png,data/processed/positivity_margins/chinese_positivity_margin.csv,reproducible_from_included_similarity_scores
+5,Gold Rush.png,data/processed/events/California_Gold_Rush.csv,reproducible_from_included_monthly_counts
+6,Asian Exclusion Act.png,data/processed/events/Asian_Exclusion_Act.csv,reproducible_from_included_monthly_counts
+7,Pearl Harbor.png,data/processed/events/Pearl_Harbor.csv,reproducible_from_included_monthly_counts
+8,Japanese.png,data/processed/positivity_margins/japanese_positivity_margin.csv,reproducible_from_included_similarity_scores
+9,Korean.png,data/processed/positivity_margins/korean_positivity_margin.csv,reproducible_from_included_similarity_scores
+10,Oriental.png,data/processed/positivity_margins/oriental_positivity_margin.csv,reproducible_from_included_similarity_scores
+
