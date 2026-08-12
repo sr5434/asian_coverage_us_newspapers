@@ -1,6 +1,6 @@
 # Anonymous reproduction package
 
-This repository accompanies **"Surname-Based Person References and Lexical Associations in Historical American Print Media"** and can be used to reproduce the paper's results. It has been refactored and cleaned up quite a bit from the original codebase, but the results are identical.
+This repository accompanies **"On the Changes of East Asian Coverage in Historical American Print Media"** and can be used to reproduce the paper's results. It has been refactored and cleaned up quite a bit from the original codebase, but the results are identical.
 
 ## Quick start: figures and downstream tables
 
